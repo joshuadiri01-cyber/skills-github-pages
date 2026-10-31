@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog - first website
 
-first website 
 ---
